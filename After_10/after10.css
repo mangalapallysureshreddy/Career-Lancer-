@@ -1,0 +1,66 @@
+.main{
+    text-align: center;
+    font-size: 34px;
+    padding: 5px;
+}
+
+.entrance{
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.exams{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.eimg{
+    height: 250px;
+    width: 250px;
+    margin: 3px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.ecard{
+    margin: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.ecard p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.ccard{
+    width: 80%;
+    height: 30%;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+
+.ccard p{
+    font-size: 19px;
+    padding: 30px;
+}
+
+.ccard h3{
+    font-size: 30px;
+    padding: 20px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+
+

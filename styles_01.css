@@ -1,0 +1,70 @@
+
+
+body{
+    background-color: #B4D4FF;
+}
+
+
+
+
+
+/** Class Selectors **/
+.heading{
+    text-align: center;
+    font-size: 4rem;
+    background-color:#596FB7;
+}
+
+.fa-school-flag{
+    transform:scale(5);
+    padding:7% 0 7% 0;
+    margin:auto;
+}
+.first{
+    width:85%;
+    margin:auto;
+    padding-top: 50px;
+    text-align: center;
+}
+.head-col{
+    font-family: 'montserrat-bold',sans-serif;
+    font-size: 1.5rem;
+    padding-top: 5%;
+    margin:auto;
+    font-weight: bold;
+}
+
+.logo-school{
+    color: #596FB7;
+}
+
+
+/** Entrance **/
+.ent{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+
+/** Schlorships **/
+.sch{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.eligibility{
+    font-weight: bold;
+}
+
+
+/** hr Tag **/
+hr{
+    border-style: dotted none none none;
+    height:0;
+    width:4%;
+    border-width: 5px;
+    color:black;
+    margin:auto;
+    padding-top:20px;
+    
+}
